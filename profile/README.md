@@ -22,8 +22,7 @@ SuperWatch, c’est une équipe de passionnés qui développe des solutions él�
 | Interface web intégrée (hébergement du site dans Minecraft) | ❌                  | ❌              | ✅                |
 
 ## 📊 Statistiques dynamiques
-![Contributeurs](https://img.shields.io/github/contributors/MC-SuperWatch?style=for-the-badge)
-![Repos](https://img.shields.io/github/orgs/MC-SuperWatch/repos?style=for-the-badge)
+![Contributeurs](https://img.shields.io/github/contributors/MC-SuperWatch/SuperWatch-Core?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/MC-SuperWatch?style=for-the-badge)
 
 ## 🚀 Rejoignez-nous
