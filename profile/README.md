@@ -22,10 +22,9 @@ SuperWatch, c’est une équipe de passionnés qui développe des solutions él�
 | Interface web intégrée (hébergement du site dans Minecraft) | ❌                  | ❌              | ✅                |
 
 ## 📊 Statistiques dynamiques
-![Contributeurs](https://img.shields.io/github/contributors/MC-SuperWatch/SuperWatch-Core?style=for-the-badge)
+![Contributeurs](https://img.shields.io/github/contributors/MC-SuperWatch?style=for-the-badge)
 ![Repos](https://img.shields.io/github/orgs/MC-SuperWatch/repos?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/MC-SuperWatch?style=for-the-badge)
-
 
 ## 🚀 Rejoignez-nous
 💬 **Discussions** : [Espace de discussion](https://github.com/orgs/MC-SuperWatch/discussions)  
@@ -33,10 +32,12 @@ SuperWatch, c’est une équipe de passionnés qui développe des solutions él�
 📥 **Pull Requests** : Contribuez et améliorez nos projets — chaque PR est la bienvenue !
 
 ## 🛠️ Technologies
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ## ❤️ Support
 Si vous aimez nos projets, pensez à laisser une star ⭐ et à partager autour de vous !
